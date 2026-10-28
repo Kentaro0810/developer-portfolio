@@ -1,0 +1,9 @@
+{
+  "name": "Kentaro0810 Developer Portfolio",
+  "short_name": "K0810 Portfolio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "Kentaro0810のWeb開発ポートフォリオ"
+}
