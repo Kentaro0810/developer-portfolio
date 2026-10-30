@@ -1,5 +1,15 @@
 const PROJECTS = [
   {
+    "id": "knotia",
+    "name": "Knotia",
+    "description": "管理者承認、リアルタイム掲示板、個人チャット、共有メモ、共有リンクを備えた共同コミュニケーションアプリ",
+    "category": "development",
+    "icon": "🔷",
+    "url": "https://kentaro0810.github.io/knotia/",
+    "version": "1.0.0"
+  },
+
+  {
     "id": "timer",
     "name": "自分用タイマー",
     "description": "勉強・作業・休憩に使えるシンプルタイマー",

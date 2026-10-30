@@ -1,8 +1,9 @@
-# Kentaro0810 Developer Portfolio v1.0.0
+# Kentaro0810 Developer Portfolio v1.1.0
 
 Kentaro0810の制作実績、使用技術、開発方針を紹介するポートフォリオサイトです。
 
 ## 収録内容
+- Knotia
 - Minimal Realtime Chat
 - SecretLinks
 - SiteWatch
